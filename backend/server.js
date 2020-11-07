@@ -71,7 +71,7 @@ app.put("/set-source", (req, res) => {
   res.sendStatus(200);
 })
 
-const port = process.env.PORT || 5050;
+const port = 5050;
 http.listen(port, () => {
   console.log("Server is running on port: " + port);
 });
