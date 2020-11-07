@@ -4,8 +4,8 @@ Click on the buttons below to see the news from last week or in general.
 You may select a source from the list.
 
 Technologies:\
-Frontend: React Hooks, SCSS, WordCloud\
-Backend: Node.js, Express, fs
+Frontend: React Hooks, SCSS, WordCloud, Bootstrap.\
+Backend: Node.js, Express, fs.
 
 ## Installation
 
