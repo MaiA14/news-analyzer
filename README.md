@@ -27,12 +27,12 @@ https://newsapi.org/
 ```
 
 ## Run project:
-run backen:
+run backend:\
 Get a key from this site:
 ```
 node server
 ```
-run frontend:
+run frontend:\
 Get a key from this site:
 ```
 npm start
